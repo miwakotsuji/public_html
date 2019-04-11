@@ -1,0 +1,32 @@
+body{
+	margin-bottom:40pt;
+}
+
+span{
+	margin:3pt;
+}
+
+span.title{
+   font-weight:bold;
+}
+span.date{
+	color:#666666;
+}
+
+span.place{
+	color:#666666;
+}
+
+
+body{
+	padding:0px;
+}
+table{
+	margin:10px;
+	width:700px;
+}
+td{
+	padding:20px;
+	border: 1px solid #666666;
+}
+
