@@ -1,5 +1,6 @@
 body{
-	margin-bottom:40pt;
+    margin-bottom:40pt;
+    background: #cccccc;
 }
 
 span{
@@ -24,6 +25,7 @@ body{
 table{
 	margin:10px;
 	width:700px;
+	background: #ffffff;
 }
 td{
 	padding:20px;
